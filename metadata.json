@@ -1,0 +1,6 @@
+{
+  "name": "SITE",
+  "description": "Developer-focused exam portal replicating the precise layout, typography, and interactive floating navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
